@@ -1,4 +1,4 @@
-FROM node:0.12
+FROM node:0.10
 
 RUN set -x \
   && apt-get update \
